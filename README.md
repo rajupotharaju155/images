@@ -5,4 +5,5 @@
 ![OMCDevMockup23720211957140](https://user-images.githubusercontent.com/53445466/198579281-c03d2465-c260-4b29-b938-be0f86538b9a.png)
 
 
-![Screenshot 2022-11-03 120720](https://user-images.githubusercontent.com/53445466/199660444-df8c9162-424c-44c4-bf05-bcfb08acd982.png)
+
+![Screenshot 2022-11-03 121525](https://user-images.githubusercontent.com/53445466/199661393-682df7b6-3b79-4409-9ed8-38ea5cd6ea7c.png)
